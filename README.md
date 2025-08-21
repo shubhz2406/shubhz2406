@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=shubhz2406&style=flat-square&color=blue" alt="profile views" /> 
 
 ### 🚀 About Me
-- B.Tech Undergraduate @ SGSITS, Indore (2025 batch)  
+- I'm Shubhanshu Sharma, 2025 B.Tech Graduate from SGSITS, Indore
 - Passionate about Competitive Programming & challenging problem-solving  
 - Exploring Software Development & expanding my skillset every day  
 - Outside tech: I enjoy Sports, Music & Movies
